@@ -16,7 +16,17 @@ body {
   }
   
   header .logo img {
-    height: 50px;
+      width: 100px; 
+
+      height: 100px;
+
+      border-radius: 50%; 
+
+      background-image: url("assets/logo.png"); 
+
+      background-size: cover;
+
+      background-position: center;
   }
   
   header nav a {
